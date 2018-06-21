@@ -1,0 +1,9 @@
+<li class="list-group-item d-flex justify-content-between align-items-center">
+
+    {{#unless eaten}} {{created_name}}
+    <button type="button" class="btn btn-primary devour" data-id="{{this.id}}" data-devoured="{{eaten}}">Devour!</button>
+    {{else}} {{devoured_name}}
+    <label>You ate it up!</label>
+    {{/unless}}
+
+</li>

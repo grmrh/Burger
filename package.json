@@ -1,0 +1,29 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "web app in node, express, musql, handlebars with a homr-grown ORM",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://kyhakw.visualstudio.com/DefaultCollection/BC-hw-vsts/_git/BC-hw-vsts"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mysql",
+    "and",
+    "handlebars"
+  ],
+  "author": "Grace Rhee",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0"
+  }
+}

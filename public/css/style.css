@@ -1,0 +1,24 @@
+h2 {
+  margin-top: 7rem;
+  margin-bottom: 3rem;
+}
+
+img {
+  margin-top: 3rem;
+}
+
+h3 {
+  text-decoration: darkorange strong;
+  text-decoration-color: gray;
+}
+
+.order-section {
+  text-align: center;
+}
+
+.show-progress {
+  background-color: lightgray;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  margin-top: 2rem;
+}
