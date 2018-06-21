@@ -14,5 +14,5 @@ You may refer to the file package.json.
 2.  To test application, type "nodemon server.js" in the root folder of the project. To run it, type "node server.js."
 
 # Live demo
-You may find the [online demo](https://grmrh.github.io/burger)
+You may find the [online demo](https://grmrh.github.io/burger) or  at [heroku](https://whispering-dawn-64351.herokuapp.com/).
 If you find any erros or questions, please contact the owner.
